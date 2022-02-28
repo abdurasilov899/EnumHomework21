@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
- Week week = Week.Жума;
+ Week week = Week.Ишенби;
  switch(week){
      case Дуйшонбу -> System.out.println(" OOP ");
      case Шейшенби -> System.out.println(" Exception ");
